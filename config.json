@@ -1,0 +1,10 @@
+{
+	"token": "Token_is_here",
+	"servers": [
+		"824740444360409108"	
+	],
+	"roleName": "RGB",
+	"colors": 12,
+	"speed": 60000,
+	"logging": true
+}
